@@ -1,0 +1,39 @@
+.input_span {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.enter_name_number {
+  color: black;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.input {
+  width: 700px;
+  height: 42px;
+  border-color: black;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+.button {
+  background-color: rgb(122, 122, 121);
+  padding: 15px 40px;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  width: 200px;
+}
+
+.button:hover {
+  background-color: rgb(102, 102, 101);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
